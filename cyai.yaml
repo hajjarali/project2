@@ -1,0 +1,10 @@
+---
+jdkVersion: "23"
+mavenVersion: "3.9.9"
+sourceEncoding: "UTF-8"
+javaSourceVersion: "23"
+defaultProfiles: []
+defaultProperties: {}
+buildFile: null
+globalArgs: []
+environmentVariables: {}
